@@ -1,7 +1,7 @@
 # iOS_3rd-Information
 三方库以及学习资料汇总
 
-[toc]
+[TOC]
 
 ---
 ###XCode插件  
@@ -9,8 +9,8 @@
  * [文档生成，一键注释](https://github.com/onevcat/VVDocumenter-Xcode)
  * [imageName自动补全](https://github.com/ksuther/KSImageNamed-Xcode)	
  * [文档生成,类apple风格](https://github.com/tomaz/appledoc)
- 
----
+
+* * *
 ###UI控件  
 ######SegmentedControl    
    - [SDSegmentedControl](https://github.com/rs/SDSegmentedControl)  
@@ -31,36 +31,37 @@
 ---
 ###### Cell    
 * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)   
-* [SWTableViewCell,简单易用](https://github.com/CEWendel/SWTableViewCell)	 		
-		
----	
+* [SWTableViewCell,简单易用](https://github.com/CEWendel/SWTableViewCell)
+
+---
 ###### Label
 * [TTTAttributedLabel,富文本](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 * [M80AttributedLabel,CoreText实现](https://github.com/xiangwangfeng/M80AttributedLabel)
 
 ###### TextField
-* [JVFloatLabeledTextField,浮动输入](https://github.com/jverdi/JVFloatLabeledTextField)  
+* [JVFloatLabeledTextField,浮动输入](https://github.com/jverdi/JVFloatLabeledTextField)
 * [SlackTextViewController,自适应](https://github.com/slackhq/SlackTextViewController)
 
 ###### Table，表单
 * [QuickDialog,复杂表单](https://github.com/escoz/QuickDialog)
 
-###### 滚动视图  
+###### 滚动视图
 * [iCarousel](https://github.com/nicklockwood/iCarousel)
-		
+
 ---
 
 ###### VIew
 * [FXBlurView,模糊视图](https://github.com/nicklockwood/FXBlurView)
 ###### 日历  
 * [JTCalendar,扁平化](https://github.com/jonathantribouharet/JTCalendar)  
-		
+
 ---	
 
 ###### 分发按钮  
 * [AwesomeMenu,花式分发按钮](https://github.com/levey/AwesomeMenu)
-		
+
 ---
+
 ###### 代替UIKit库  
 * [sstoolkit,提供丰富的UI控件](https://github.com/soffes/sstoolkit)  
 * [FlatUIKIT,扁平化风格](https://github.com/Grouper/FlatUIKit)  
@@ -74,11 +75,12 @@
 * [AwesomeMenu,path动画](https://github.com/levey/AwesomeMenu)
 * [Canvas,简单易用](https://github.com/CanvasPod/Canvas)
 * [JazzHands,帧动画](https://github.com/IFTTT/JazzHands)
+* [TurtleBezierPath,UIBezierPath子类，简单易用](https://github.com/mindbrix/TurtleBezierPath)
 
 ---
 ###### 布局
 * [Masonry.链式语法助你纯手工代码布局](https://github.com/SnapKit/Masonry)
-		
+
 * * *
 ###系统服务
 ###### 网络编程  
@@ -94,12 +96,13 @@
 ###### 缓存(数据库、归档等)  
 * [TMCache](https://github.com/tumblr/TMCache)
 * [FastImageCache,高速图片缓存](https://github.com/path/FastImageCache)  
-	
---- 
+
+---
 ###### GIF播放库   
 * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)  
-	   
+
 ---
+
 ###### 图片
 * [CorePhotoBroswerVC,图片浏览器](https://github.com/CharlinFeng/CorePhotoBroswerVC)  
 * [SDWebImage.网络图片加载](https://github.com/rs/SDWebImage)
@@ -107,13 +110,15 @@
 * [CRMotionView,跟随手机晃动而显示图片](https://github.com/chroman/CRMotionView)
 
 ---
-###### 动画  
+
+###### 动画
 * [pop,facebook出品动画库](https://github.com/facebook/pop)  
 * [tabBar动画](https://github.com/Ramotion/animated-tab-bar)   
 * [加载GIF做为下拉动画](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)  
 * [链式语法做动画](https://github.com/jhurray/JHChainableAnimations)
 
 ---
+
 ###### 图片处理  
 * [GPUImage](https://github.com/BradLarson/GPUImage)   
 	
