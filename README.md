@@ -52,6 +52,10 @@
 
 ###### VIew
 * [FXBlurView,模糊视图](https://github.com/nicklockwood/FXBlurView)
+* [KZColorPicker,色盘，颜色选择器](https://github.com/alexrestrepo/KZColorPicker)
+* [ios-color-wheel,取色盘](https://github.com/justinmeiners/ios-color-wheel)
+
+---
 ###### 日历  
 * [JTCalendar,扁平化](https://github.com/jonathantribouharet/JTCalendar)  
 
@@ -83,6 +87,11 @@
 
 * * *
 ###系统服务
+###### 工具库
+* [YYKit,国人自己写的各类工具集合，包括字典转模型，GIF图片，WEB图片加载，图文混排等](https://github.com/ibireme/YYKit#中文介绍)
+
+---
+
 ###### 网络编程  
 * [MKNetworkKit](https://github.com/MugunthKumar/MKNetworkKit)  
 * [RestKit](https://github.com/RestKit/RestKit)   
@@ -93,11 +102,13 @@
 * [Reachability,网络检测库](https://github.com/tonymillion/Reachability)
 
 ---
+
 ###### 缓存(数据库、归档等)  
 * [TMCache](https://github.com/tumblr/TMCache)
 * [FastImageCache,高速图片缓存](https://github.com/path/FastImageCache)  
 
 ---
+
 ###### GIF播放库   
 * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)  
 
@@ -110,6 +121,9 @@
 * [CRMotionView,跟随手机晃动而显示图片](https://github.com/chroman/CRMotionView)
 
 ---
+
+###### 音乐
+* [MusicPlayerViewController,界面精美](https://github.com/BeamApp/MusicPlayerViewController)
 
 ###### 动画
 * [pop,facebook出品动画库](https://github.com/facebook/pop)  
@@ -132,11 +146,12 @@
 * [HockeyKit](https://github.com/bitstadium/HockeyKit)
 		
 ---
-###### JSON解析  
+###### JSON与XML解析  
 * [JSONKit.效率解析JSON](https://github.com/johnezang/JSONKit)  
 * [MJExtension.数据转模型、NSCoding等功能](https://github.com/CoderMJLee/MJExtension)  
 * [Mantle,解析及模型转换](https://github.com/Mantle/Mantle)  
- 		
+
+
 ---
 ###### 数据库  
 * [MagicalRecord，封装Coredata，减少操作难度](https://github.com/magicalpanda/MagicalRecord)   
@@ -161,18 +176,27 @@
 * [JSQMessagesViewController,聊天界面](https://github.com/jessesquires/JSQMessagesViewController) 
 * [XMPP](https://github.com/robbiehanson/XMPPFramework) 
 
+---
 ###### 评分
 * [appirater，提未用户评分](https://github.com/arashpayan/appirater)
 
+---
 ###### 测试
 * [KIF,UI测试](https://github.com/kif-framework/KIF)
 
+---
 ###### Formaters
 * [FormatterKit,众多NSFormatete子类](https://github.com/mattt/FormatterKit)
 
+---
 ###### JS交互
 * [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
 
+---
+###### 算法
+* [EKAlgorithms,各种算法在OC中的实现](https://github.com/EvgenyKarkan/EKAlgorithms)
+
+* * * 
 ###分享
 * [同行收集的三方库和项目](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0)
 
