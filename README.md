@@ -20,11 +20,14 @@
 ---
 
 ###### TableView && TableViewCell
+* [CS Sticky—UITableView的替代选择，可实现图片的滚动视差和可伸缩设计](https://github.com/jamztang/CSStickyHeaderFlowLayout)
+
 * [QuickDialog,复杂表单](https://github.com/escoz/QuickDialog)
 * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)   
 * [SWTableViewCell,简单易用](https://github.com/CEWendel/SWTableViewCell)
-
-
+* [AMWaveTransition,UITableView切换动画](https://github.com/andreamazz/AMWaveTransition)
+* [ParallaxTableViewHeader(下拉header放大)](https://github.com/Vinodh-G/ParallaxTableViewHeader)
+* [QMBParallaxScrollViewController(下拉显示全部header)](https://github.com/quemb/QMBParallaxScrollViewController)
 
 ###### Label
 * [TTTAttributedLabel,富文本](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
@@ -33,7 +36,7 @@
 ###### TextField
 * [JVFloatLabeledTextField,浮动输入](https://github.com/jverdi/JVFloatLabeledTextField)
 * [SlackTextViewController,自适应](https://github.com/slackhq/SlackTextViewController)
-
+* [TP Keyboard—防止键盘遮挡屏幕的开源库](https://github.com/michaeltyson/TPKeyboardAvoiding)
 
 ###### 侧边栏   
  * [SlideMenuControllerSwift,Swift实现](https://github.com/dekatotoro/SlideMenuControllerSwift)  
@@ -76,8 +79,11 @@
 * [sstoolkit,提供丰富的UI控件](https://github.com/soffes/sstoolkit)  
 * [FlatUIKIT,扁平化风格](https://github.com/Grouper/FlatUIKit)  
 * [tapkulibrary,丰富动画](https://github.com/devinross/tapkulibrary)
-
+* [SSToolkit,该库收集了一些渐变、集合视图以及其他简化iOS开发的内容](http://sstoolk.it/)
 ---
+
+###### StoryBoard
+* [Blurry Modal—是 UIStoryboardSegue 的子类，提供故事板模态演变的模糊效果](https://github.com/Citrrus/BlurryModalSegue) 
 	
 
 * * *
@@ -139,7 +145,13 @@
 * [Canvas,简单易用](https://github.com/CanvasPod/Canvas)
 * [JazzHands,帧动画](https://github.com/IFTTT/JazzHands)
 * [TurtleBezierPath,UIBezierPath子类，简单易用](https://github.com/mindbrix/TurtleBezierPath)
+* [VCTransitionsLibrary,利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果](https://github.com/ColinEberhardt/VCTransitionsLibrary)
 
+* [NGA Parallax—零编码实现iOS视差效果](https://github.com/michaeljbishop/NGAParallaxMotion)
+TP Keyboard—防止键盘遮挡屏幕的开源库。
+TTAttributed Label—UILabel替代选择，支持属性、数据检测以及链接等。
+Binpress—代码、软件、设计以及教程在线售卖集市（多种语言）。
+SS Toolkit—该库收集了一些渐变、集合视图以及其他简化iOS开发的内容。
 ---
 
 
@@ -159,7 +171,7 @@
 * [JSONKit.效率解析JSON](https://github.com/johnezang/JSONKit)  
 * [MJExtension.数据转模型、NSCoding等功能](https://github.com/CoderMJLee/MJExtension)  
 * [Mantle,解析及模型转换](https://github.com/Mantle/Mantle)  
-
+* [XMLDictionary(XML to dictionary)](https://github.com/nicklockwood/XMLDictionary.git)
 
 ---
 ###### 数据库  
@@ -206,6 +218,7 @@
 * * * 
 ###分享
 * [同行收集的三方库和项目](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0)
+* [94个iOS开发资源推荐，帮你加速应用开发](http://www.cocoachina.com/ios/20151210/14635.html)
 
 ***
 
