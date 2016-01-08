@@ -29,6 +29,9 @@
 * [ParallaxTableViewHeader(下拉header放大)](https://github.com/Vinodh-G/ParallaxTableViewHeader)
 * [QMBParallaxScrollViewController(下拉显示全部header)](https://github.com/quemb/QMBParallaxScrollViewController)
 
+###### UICollectionView
+* [XLPlainFlowLayout,TableView plain风格header悬停](https://github.com/HebeTienCoder/XLPlainFlowLayout)
+
 ###### Label
 * [TTTAttributedLabel,富文本](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 * [M80AttributedLabel,CoreText实现](https://github.com/xiangwangfeng/M80AttributedLabel)
@@ -54,7 +57,8 @@
 ###### 弹出视图(Popover)
    * [WEPopover](https://github.com/werner77/WEPopover)  
    * [DXPopover,简单易用](https://github.com/xiekw2010/DXPopover)  
-
+   * [WYPopoverController,箭头有花样](https://github.com/nicolaschengdev/WYPopoverController)
+   * [MTDActionSheet,简约风](https://github.com/myell0w/MTDActionSheet)
 ---
 
 ###### HUD
@@ -220,11 +224,12 @@ SS Toolkit—该库收集了一些渐变、集合视图以及其他简化iOS开�
 * [资源_Tim9Liu9](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0)
 * [资源_JRJian](https://github.com/JRJian/hotchpotch_of_iOS_bookmark)
 * [94个iOS开发资源推荐，帮你加速应用开发](http://www.cocoachina.com/ios/20151210/14635.html)
-* [Apple私有库头文件](https://github.com/kennytm/iphone-private-frameworks.git)
-
+* [Apple私有库头文件](https://github.com/kennytm/iphone-private-frameworks)
+* [VVeboTableViewDemo_TableView流畅度优化](https://github.com/johnil/VVeboTableViewDemo)
 
 ***
 
 ###完整项目
 * [phphub-ios(PHPHub社区的iOS客户端)](https://github.com/Aufree/phphub-ios)
 * [C-41,MVVM与ReactiveCocoa的结合](https://github.com/ashfurrow/C-41.git)
+* [MVVMReactiveCocoa,MVVM与ReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)
