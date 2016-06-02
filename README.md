@@ -84,6 +84,7 @@
 * [FlatUIKIT,扁平化风格](https://github.com/Grouper/FlatUIKit)  
 * [tapkulibrary,丰富动画](https://github.com/devinross/tapkulibrary)
 * [SSToolkit,该库收集了一些渐变、集合视图以及其他简化iOS开发的内容](http://sstoolk.it/)
+
 ---
 
 ###### StoryBoard
@@ -92,6 +93,11 @@
 
 * * *
 ###System Service
+
+###### 网络检测 
+* [RealReachability , 实时检测网络连接](https://github.com/dustturtle/RealReachability)
+	 * [介绍及思路](http://www.cocoachina.com/ios/20160224/15407.html)
+
 ###### 工具库
 * [YYKit,国人自己写的各类工具集合，包括字典转模型，GIF图片，WEB图片加载，图文混排等](https://github.com/ibireme/YYKit#中文介绍)
 
@@ -152,17 +158,18 @@
 * [VCTransitionsLibrary,利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果](https://github.com/ColinEberhardt/VCTransitionsLibrary)
 
 * [NGA Parallax—零编码实现iOS视差效果](https://github.com/michaeljbishop/NGAParallaxMotion)
-TP Keyboard—防止键盘遮挡屏幕的开源库。
-TTAttributed Label—UILabel替代选择，支持属性、数据检测以及链接等。
-Binpress—代码、软件、设计以及教程在线售卖集市（多种语言）。
-SS Toolkit—该库收集了一些渐变、集合视图以及其他简化iOS开发的内容。
+
+
 ---
-
-
 	
 ###### 下拉刷新
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)
 * [MJRefresh,公认好用的刷新控件](https://github.com/CoderMJLee/MJRefresh)
+
+---
+
+###### 下拉菜单
+* [DOPDropDownMenu-Enhanced,支持下拉双列表](https://github.com/12207480/DOPDropDownMenu-Enhanced)
 
 ---
 
@@ -178,6 +185,7 @@ SS Toolkit—该库收集了一些渐变、集合视图以及其他简化iOS开�
 * [XMLDictionary(XML to dictionary)](https://github.com/nicklockwood/XMLDictionary.git)
 
 ---
+
 ###### 数据库  
 * [MagicalRecord（封装Coredata，减少操作难度）](https://github.com/magicalpanda/MagicalRecord)   
 * [FMDB（用OC语法封装sqlite）](https://github.com/ccgus/fmdb)
@@ -200,9 +208,9 @@ SS Toolkit—该库收集了一些渐变、集合视图以及其他简化iOS开�
 * [XMPP](https://github.com/robbiehanson/XMPPFramework) 
 
 ---
-###### 评分
+###### 评分与评星
 * [appirater，提未用户评分](https://github.com/arashpayan/appirater)
-
+* [tarRatingView，评星控件](https://github.com/hsousa/HCSStarRatingView)
 ---
 ###### 测试
 * [KIF,UI测试](https://github.com/kif-framework/KIF)
@@ -221,11 +229,13 @@ SS Toolkit—该库收集了一些渐变、集合视图以及其他简化iOS开�
 
 * * * 
 ###分享
-* [资源_Tim9Liu9](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0)
-* [资源_JRJian](https://github.com/JRJian/hotchpotch_of_iOS_bookmark)
+* [1.整理常用的iOS第三方资源 by_Tim9Liu9](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0)
+* [2.整理常用的iOS第三方资源 by_JRJian](https://github.com/JRJian/hotchpotch_of_iOS_bookmark)
+* [3.整理常用的iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html)
 * [94个iOS开发资源推荐，帮你加速应用开发](http://www.cocoachina.com/ios/20151210/14635.html)
 * [Apple私有库头文件](https://github.com/kennytm/iphone-private-frameworks)
 * [VVeboTableViewDemo_TableView流畅度优化](https://github.com/johnil/VVeboTableViewDemo)
+* [dev-blog,一些干货](https://github.com/nixzhu/dev-blog)
 
 ***
 
@@ -233,3 +243,4 @@ SS Toolkit—该库收集了一些渐变、集合视图以及其他简化iOS开�
 * [phphub-ios(PHPHub社区的iOS客户端)](https://github.com/Aufree/phphub-ios)
 * [C-41,MVVM与ReactiveCocoa的结合](https://github.com/ashfurrow/C-41.git)
 * [MVVMReactiveCocoa,MVVM与ReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)
+* [开源中国iOS app](http://git.oschina.net/oschina/iphone-app)
